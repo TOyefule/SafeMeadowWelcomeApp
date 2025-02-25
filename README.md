@@ -1,2 +1,0 @@
-# SafeMeadowWelcomeApp
-SafeMeadow Welcome App
